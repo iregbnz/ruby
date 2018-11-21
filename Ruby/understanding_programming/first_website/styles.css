@@ -1,0 +1,12 @@
+body {
+background-color : grey;
+font-family: sans-serif;
+    color: red;
+}
+
+
+.main{
+  width: 400px;
+  margin: 0 auto;
+
+}
